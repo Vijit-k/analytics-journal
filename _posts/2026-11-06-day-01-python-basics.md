@@ -7,9 +7,11 @@ This project was about understanding what dictionary is, use python commands to 
 One example below:
 **Exercise 3.** Print the `id` and `issue` of every complaint that took more than 7 days.
 
+```python
 for c in complaints:
     if c["days_to_respond"] > 7:
         print(c["id"], c["issue"])
+```
 
 Output:
 2 Payment trouble
