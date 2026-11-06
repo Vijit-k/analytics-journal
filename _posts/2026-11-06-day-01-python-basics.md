@@ -38,6 +38,6 @@ with another organization for some purpose. It being incorrect is a major issue 
 
 Which products have the highest percentage of late replies. This will help to target those in a focused manner and bring the response time down to a lower number.
 
-[View the notebook on GitHub](https://github.com/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb)
+[View the notebook on GitHub](https://github.com/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb){:target="_blank" rel="noopener"}
 
-[Run it in Google Colab](https://colab.research.google.com/github/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb)
+[Run it in Google Colab](https://colab.research.google.com/github/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb){:target="_blank" rel="noopener"}
