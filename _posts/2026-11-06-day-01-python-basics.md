@@ -14,9 +14,11 @@ for c in complaints:
 ```
 
 Output:
+```text
 2 Payment trouble
 4 Account closed
 5 Incorrect info
+```
 
    1. Explain a dictionary to a 12-year-old. Where did you get stuck? That's your gap.
 
