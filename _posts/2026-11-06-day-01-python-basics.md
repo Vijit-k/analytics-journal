@@ -37,7 +37,7 @@ with another organization for some purpose. It being incorrect is a major issue 
 3. One thing you want to find out when you see the real data.
 
 Which products have the highest percentage of late replies. This will help to target those in a focused manner and bring the response time down to a lower number.
-```text
-View: https://github.com/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb
-Run in Colab: https://colab.research.google.com/github/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb
-```
+
+[View the notebook on GitHub](https://github.com/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb)
+
+[Run it in Google Colab](https://colab.research.google.com/github/Vijit-k/complaint-intelligence/blob/main/notebooks/day01_python_basics.ipynb)
