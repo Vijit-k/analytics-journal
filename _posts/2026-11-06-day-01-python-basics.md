@@ -1,7 +1,7 @@
-   ---
-   layout: post
-   title: "Day 1: Python basics with six complaints"
-   ---
+---
+layout: post
+title: "Day 1: Python basics with six complaints"
+---
    1. Explain a dictionary to a 12-year-old. Where did you get stuck? That's your gap.
 
 Think of dictionary as a row holding information about a student with some labels like "Roll no., First name, Last Name, Grade, Div" and next to each label is the corresponding value (eg: {"Roll no.": 1,"First name":"Vijitkumar", "Last Name":"Kunhikandi","Grade":"10","Div":"B"})
